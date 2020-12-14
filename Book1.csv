@@ -1,0 +1,23 @@
+Gender,Amount of Candidates,% achieved 5+ A*-C grades,% achieved 5+ A*-C inc. English & mathematics,Type of School
+Boys,"279,595",81.2,54.9,State-funded mainstream Schools
+Girls,"271,859",86.8,63.8,State-funded mainstream Schools
+Boys,"187,686",79.6,53.0,Local Authority maintained mainstream schools
+Girls,"184,126",85.7,62.3,Local Authority maintained mainstream schools
+Boys,"91,909",84.7,58.9,Academies and Free Schools
+Girls,"87,733",89.1,66.9,Academies and Free Schools
+Boys,"25,183",82.0,44.9,Sponsored Academies
+Girls,"23,151",86.6,52.9,Sponsored Academies
+Boys,"66,402",85.7,64.2,Converter Academies
+Girls,"64,550",90.0,71.9,Converter Academies
+Boys,324,78.1,53.1,Free schools
+Girls,32,96.9,68.8,Free schools
+Boys,"7,041",1.9,0.4,State-funded special schools
+Girls,"2,682",0.7,0.1,State-funded special schools
+Boys,"6,526",3.4,1.0,"Hospital schools, Pupil Referral Units (PRUs) and Alternative Provision (AP)"
+Girls,"3,421",5.2,1.8,"Hospital schools, Pupil Referral Units (PRUs) and Alternative Provision (AP)"
+Boys,371,6.5,3.8,Non-maintained special schools
+Girls,151,7.9,3.3,Non-maintained special schools
+Boys,"24,852",82.3,75.5,Independent schools
+Girls,"24,864",84.8,78.4,Independent schools
+Boys,"1,580",8.2,5.2,Independent special schools
+Girls,498,4.6,2.2,Independent special schools
